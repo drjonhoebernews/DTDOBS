@@ -12,7 +12,7 @@ publish:
   - provider: github
     owner: drjonhoebernews
     repo: DTDOBS
-    releaseType: draft
+    releaseType: release
 copyright: © CM Apps
 files: []
 electronVersion: 26.1.0
