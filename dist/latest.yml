@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: DTDOBS-Setup-1.0.0.exe
+    sha512: ZE//QlSYcxhHapLXary5u+5RL5PbXj2RYH3A0AtHb0bj2A+vXux9HHB0unN7WXkkuSPgy91sslkt70Kvmqu1vA==
+    size: 72967664
+path: DTDOBS-Setup-1.0.0.exe
+sha512: ZE//QlSYcxhHapLXary5u+5RL5PbXj2RYH3A0AtHb0bj2A+vXux9HHB0unN7WXkkuSPgy91sslkt70Kvmqu1vA==
+releaseDate: '2023-09-01T12:35:58.791Z'

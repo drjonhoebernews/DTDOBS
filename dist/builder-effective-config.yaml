@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.cmapps.dtdobs
+productName: DTDOBS
+win:
+  target: nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+publish:
+  - provider: github
+    owner: drjonhoebernews
+    repo: DTDOBS
+    releaseType: draft
+copyright: © CM Apps
+files: []
+electronVersion: 26.1.0
